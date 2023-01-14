@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/ITeam_test-task/static/css/main.7acaea2f.css",
-    "main.js": "/ITeam_test-task/static/js/main.07d3183d.js",
+    "main.css": "/ITeam_test-task/static/css/main.091e5422.css",
+    "main.js": "/ITeam_test-task/static/js/main.37968690.js",
+    "static/media/Inter-Font.ttf": "/ITeam_test-task/static/media/Inter-Font.aadb65ac45347ff46699.ttf",
+    "static/media/sortBtn.svg": "/ITeam_test-task/static/media/sortBtn.7d7f9cab64d5cd47776b1cafa3bece09.svg",
+    "static/media/browser.svg": "/ITeam_test-task/static/media/browser.5e94f3ad086e72e93ed6a10b3eed344b.svg",
+    "static/media/heartIcon.svg": "/ITeam_test-task/static/media/heartIcon.f4d9df42cad2a451530fb6bd48a1d4c2.svg",
+    "static/media/searchBtn.svg": "/ITeam_test-task/static/media/searchBtn.080f6006152a3405ba68ebc100f77c5a.svg",
+    "static/media/pricetag.svg": "/ITeam_test-task/static/media/pricetag.6915d5970e2734b568b99285d4ae5e1e.svg",
     "index.html": "/ITeam_test-task/index.html",
-    "main.7acaea2f.css.map": "/ITeam_test-task/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/ITeam_test-task/static/js/main.07d3183d.js.map"
+    "static/media/arrowUp.svg": "/ITeam_test-task/static/media/arrowUp.6dfce3be964d54e397671423efbbce53.svg",
+    "static/media/arrowDown.svg": "/ITeam_test-task/static/media/arrowDown.806895615fc9a7d581fe06c6a52f3438.svg",
+    "static/media/redHeartIcon.svg": "/ITeam_test-task/static/media/redHeartIcon.5e3267dc2338b1cdadceb907db0a20a7.svg",
+    "static/media/arrowRight.svg": "/ITeam_test-task/static/media/arrowRight.d98d8513a91f9481d3a89109feb56d08.svg",
+    "static/media/arrowLeft.svg": "/ITeam_test-task/static/media/arrowLeft.d6e0a2bed389c844d08986ac6c8be6f1.svg",
+    "main.091e5422.css.map": "/ITeam_test-task/static/css/main.091e5422.css.map",
+    "main.37968690.js.map": "/ITeam_test-task/static/js/main.37968690.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.091e5422.css",
+    "static/js/main.37968690.js"
   ]
 }
