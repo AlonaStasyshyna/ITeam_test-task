@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ITeam_test-task/static/css/main.091e5422.css",
-    "main.js": "/ITeam_test-task/static/js/main.37968690.js",
+    "main.js": "/ITeam_test-task/static/js/main.a8b3d6d4.js",
     "static/media/Inter-Font.ttf": "/ITeam_test-task/static/media/Inter-Font.aadb65ac45347ff46699.ttf",
     "static/media/sortBtn.svg": "/ITeam_test-task/static/media/sortBtn.7d7f9cab64d5cd47776b1cafa3bece09.svg",
     "static/media/browser.svg": "/ITeam_test-task/static/media/browser.5e94f3ad086e72e93ed6a10b3eed344b.svg",
@@ -15,10 +15,10 @@
     "static/media/arrowRight.svg": "/ITeam_test-task/static/media/arrowRight.d98d8513a91f9481d3a89109feb56d08.svg",
     "static/media/arrowLeft.svg": "/ITeam_test-task/static/media/arrowLeft.d6e0a2bed389c844d08986ac6c8be6f1.svg",
     "main.091e5422.css.map": "/ITeam_test-task/static/css/main.091e5422.css.map",
-    "main.37968690.js.map": "/ITeam_test-task/static/js/main.37968690.js.map"
+    "main.a8b3d6d4.js.map": "/ITeam_test-task/static/js/main.a8b3d6d4.js.map"
   },
   "entrypoints": [
     "static/css/main.091e5422.css",
-    "static/js/main.37968690.js"
+    "static/js/main.a8b3d6d4.js"
   ]
 }
