@@ -15,7 +15,7 @@ export const GameItem = ({
 }) => {
   return (
     <Item>
-      <a href={link}>
+      <a href={link} target="_blank" rel="noreferrer">
         <img src={img} alt={title} />
 
         <div>
